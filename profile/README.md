@@ -1,4 +1,4 @@
-## Welcome to AI for Photon Science 👋
+## Welcome to AI for Future Photon Science 👋
 
 🙋‍♀️ We contribute to the understanding of **fundamental properties in photon science** like what happens once a Laser interacts with matter by machine learning. 
 From an experiental point of view, we employ very brilliant beams of Photons (X-rays) to image very small-scale or ultra-fast processes. The corresponding problems in computational imaging are approached by ML, too 😀 
