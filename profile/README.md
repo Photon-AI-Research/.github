@@ -7,7 +7,7 @@ From an experiental point of view, we employ very brilliant beams of Photons (X-
 
 🚀 We are also solving **Inverse X-ray imaging problems** by generative models like [normalising flows](https://github.com/Photon-AI-Research/NF4IP) for fast understanding of experimental data from instruments like [HIBEF](https://www.hzdr.de/db/Cms?pOid=50566&pNid=694) situated at large-scale facilities  [EuropeanXFEL](https://www.xfel.eu), [DESY](https://www.desy.de), etc.
 
-🌈 Feel free to message [Nico](mailto:n.hoffmann@hzdr.de) if you are interested in contributing to our research 😀
+🌈 Feel free to message [Jeffrey](mailto:j.kelling@hzdr.de) if you are interested in contributing to our research 😀
 
 👩‍ Please find a more detailed description of our projects and publications here: [photon-ai-research.github.io](https://photon-ai-research.github.io/)
 
